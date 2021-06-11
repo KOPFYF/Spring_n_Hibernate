@@ -1,0 +1,6 @@
+https://devblogs.microsoft.com/java-ch/java-on-visual-studio-code%E7%9A%84%E6%9B%B4%E6%96%B0-2020%E5%B9%B49%E6%9C%88/
+
+您的VS Code Java开发环境涉及两个JDK概念，用于运行VS Code Java的JDK（引导JDK）和用于构建项目的JDK（项目JDK）。在VS Code中，可以单独配置它们。引导JDK需要Java 11或更高版本，而项目JDK支持Java 1.5以上的任何主要版本。如果使用了Coding Pack for Java进行安装，则启动JDK已经自动为您设置好了。
+
+cmd: java com.luv2code.springdemo.MyApp
+
